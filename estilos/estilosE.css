@@ -1,0 +1,56 @@
+.texto-centrado{
+    text-align: center;
+}
+
+a{
+    width: 20%;
+}
+
+img{
+    width: 100%;
+}
+
+#imagen1{ 
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+.historia{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.carac{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.riva{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.sala{
+    text-align: center;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.nombre{
+    text-align: center;
+    background-color:indianred;
+    border-radius: 80%;
+}
+
+.imagen2{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+@font-face{
+    font-family: Caveat;
+    src: url(Caveat-VariableFont_wght.ttf);
+}

@@ -1,0 +1,48 @@
+@font-face{
+    font-family: Caveat;
+    src: url(Caveat-VariableFont_wght.ttf);
+}
+
+.texto-centrado{
+    text-align: center;
+    background-color:cadetblue;
+    border-radius: 20px;
+}
+
+.subtexto{
+    text-align:center;
+    background-color:aquamarine;
+    border-radius: 20px;
+}
+
+a{
+    width: 20%;
+}
+
+img{
+    width: 100%;
+}
+
+#imagen1{ 
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen2{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen3{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+#imagen4{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+body{
+    background-image: url(hogwarts.jpg);
+}

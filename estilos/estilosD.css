@@ -1,0 +1,58 @@
+a{
+    width: 20%;
+}
+
+img{
+    width: 100%;
+}
+
+#imagen1{ 
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
+
+@font-face{
+    font-family: Caveat;
+    src: url(Caveat-VariableFont_wght.ttf);
+}
+
+.texto-centrado{
+    text-align: center;
+}
+
+.juego{
+    text-align: center;
+    background-color:red;
+    border-radius: 20px;
+}
+
+.equipo{
+    text-align: center;
+}
+
+.texto{
+    text-align: center;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.carac{
+    text-align: center;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.lista{
+    text-align: center;
+}
+
+.nombre{
+    text-align: center;
+    background-color:darkgreen;
+    border-radius: 80%;
+}
+
+.imagen3{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
